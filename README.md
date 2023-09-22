@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔜 Currently, i´m studying in the university, but also i´m learning code by my self.<br>☕ Learning deep Java at the moment, some backend :)<br>🧠 I have knowledge in Java, SpringFramework, SQL, Microservices, Git <br>🔥Trying to improve every day<br>💼 Add me on LinkedIn<br>👨‍🎓 Platzi Student 
+🔜 Currently, i´m studying in the university, but also i´m learning code by my self.<br>☕ Learning deep Java at the moment, some backend :)<br>🧠 I have knowledge in Java, SpringFramework, SQL, Microservices, Git, Docker, Kubernetes, AWS/AZURE <br>🔥Trying to improve every day<br>💼 Add me on LinkedIn<br>👨‍🎓 Platzi Student 
 
 
 ## 🌐 Socials:
